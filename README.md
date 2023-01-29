@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋
+- 🔭 I’m currently working on Frontend Technologies
+- 🌱 I’m currently learning React.js and Computer Networking
+- 👯 I’m looking to collaborate on Full Stack Developmnet 
+- 📫 How to reach me: www.linkedin.com/in/vikram-palani
 
 <!--
 **Vikram0118/Vikram0118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
