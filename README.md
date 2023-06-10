@@ -8,5 +8,3 @@ Hi there 👋 I'm Vikram
 
 📫 How to reach me: www.linkedin.com/in/vikram-palani
 
-⚡ Fun fact: I play Video Games a loooot ✌️
-
