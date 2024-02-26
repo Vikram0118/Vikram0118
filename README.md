@@ -2,7 +2,7 @@ Hi there 👋 I'm Vikram
 
 👀 I’m interested in Problem Solving, Web Development and Computer Networking
 
-🌱 I’m currently learning Frontend Web Development with React JS and expaning my skills towards Django and AWS
+🌱 I’m Frontend Dev using React, Next and learning a lot others.
 
 💞️ I’m looking to collaborate on building Full Stack Web Applications
 
